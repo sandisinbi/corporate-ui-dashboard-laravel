@@ -167,9 +167,9 @@
         </ul>
     </div>
     <div class="sidenav-footer mx-4 ">
-        <a class="btn bg-gradient-primary inline-block px-5 py-3 mx-auto text-xs align-middle transition-all ease-in border-0 rounded-lg select-none" href="https://www.creative-tim.com/product/corporate-ui-dashboard-pro-laravel" target="_blank">
+        <!-- <a class="btn bg-gradient-primary inline-block px-5 py-3 mx-auto text-xs align-middle transition-all ease-in border-0 rounded-lg select-none" href="https://www.creative-tim.com/product/corporate-ui-dashboard-pro-laravel" target="_blank">
             UPGRADE TO PRO
-        </a>
+        </a> -->
         <div class="card border-radius-md" id="sidenavCard">
             <div class="card-body  text-start  p-3 w-100">
                 <div class="mb-3">
